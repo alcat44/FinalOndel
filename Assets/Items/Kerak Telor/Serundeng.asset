@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0ed5fc72e80838438a47894dfa1cea3, type: 3}
+  m_Name: Serundeng
+  m_EditorClassIdentifier: 
+  id: 8
+  itemName: Serundeng
+  itemInformation: made from grated young coconut, which is fried until dry
+  icon: {fileID: 21300000, guid: 8abcfa4bf3451dc4699a27b8e133aa6b, type: 3}
+  prefab: {fileID: 1254117981572873918, guid: 39bf429605f6fb74c91a430e36c57755, type: 3}
+  images: []

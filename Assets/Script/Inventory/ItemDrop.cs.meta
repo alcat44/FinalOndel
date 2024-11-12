@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 2765c9f2d413a5c49b650460bff98c29
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - item: {instanceID: 0}
+  - itemObject: {instanceID: 0}
+  - itemDrop: {instanceID: 0}
+  - KerakTelor: {instanceID: 0}
+  - KertasMusik: {instanceID: 0}
+  - Ondel: {instanceID: 0}
+  - lantai31: {instanceID: 0}
+  - lantai32: {instanceID: 0}
+  - lantai33: {instanceID: 0}
+  - player: {instanceID: 0}
+  - pintuTerakhir: {instanceID: 0}
+  - telor: {instanceID: 0}
+  - kelapa: {instanceID: 0}
+  - beras: {instanceID: 0}
+  - dropText: {instanceID: 0}
+  - dropSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
